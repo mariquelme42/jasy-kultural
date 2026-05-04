@@ -50,7 +50,7 @@ El sitio se adapta a:
 
 El sitio se encuentra publicado en:
 
-👉 [PEGAR LINK AQUÍ]
+👉 https://mariquelme42.github.io/jasy-kultural/
 
 ## ✨ Futuras mejoras
 
